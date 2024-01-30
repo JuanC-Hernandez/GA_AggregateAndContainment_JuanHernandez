@@ -3,7 +3,7 @@
     internal class Program
     {
         // Juan Hernandez
-        // Guided Assingment
+        // Guided Assingment: Aggregation and Containment
         // 01/29/2024
 
         static List<Engine> _engines; // Declare a list of Engine objects.
